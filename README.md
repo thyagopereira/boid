@@ -1,7 +1,7 @@
 # Boids
 
 Boids é um conceito proposto por Craig Reynolds em 1986 para estudos voltados ao ramo da [A-life](https://pt.wikipedia.org/wiki/Vida_artificial) ou vida artifical.
-Basicamente no que diz respeito á A-life, buscasse entender comportamentos biologicos por meio do estudado desses comportamentos em simulações artificiais computadorizadas. Trata-se de um ramo da Inteligẽncia artificial que se enquadra em mutuo aprendizado entre as áreas da ciência da computação e da biologia.
+Basicamente no que diz respeito á A-life, buscasse entender comportamentos biologicos por meio do estudo de comportamentos biológicos em simulações artificiais computadorizadas. Trata-se de um ramo da Inteligẽncia artificial que se enquadra em mutuo aprendizado entre as áreas da ciência da computação e da biologia.
 Este estudo e simulação tem como objetivo, aplicar o conceito de processamento multithreading, utilizando a linguagem golang. O uso de go routines permite a execução concorrente do precesso, de modo a melhor aproveitar o hardware do dispositivo, criando uma simulação mais eficaz.
 
 __Boids__
